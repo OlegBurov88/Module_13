@@ -50,6 +50,7 @@
     "Python.Lecture_03.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module_13_1.executor": "Run",
+    "Python.module_13_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -144,7 +145,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736834458357</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Лекция.&#10;Set up конфигурации бота для библиотеки aiogram.&#10;Хендлеры обработки сообщений">
+      <option name="closed" value="true" />
+      <created>1736845593499</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736845593499</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Лекция.&#10;Set up конфигурации бота для библиотеки aiogram.&#10;Хендлеры обработки сообщений">
+      <option name="closed" value="true" />
+      <created>1736845596496</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736845596496</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,7 +169,8 @@
     <MESSAGE value="Лекция. Асинхронность на практике." />
     <MESSAGE value="Домашнее задание по теме &quot;Асинхронность на практике&quot;" />
     <MESSAGE value="Домашнее задание по теме &quot;Хендлеры обработки сообщений&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Хендлеры обработки сообщений&quot;." />
+    <MESSAGE value="Лекция.&#10;Set up конфигурации бота для библиотеки aiogram.&#10;Хендлеры обработки сообщений" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лекция.&#10;Set up конфигурации бота для библиотеки aiogram.&#10;Хендлеры обработки сообщений" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
