@@ -54,6 +54,7 @@
     "Python.module_13_1.executor": "Run",
     "Python.module_13_2.executor": "Run",
     "Python.module_13_3.executor": "Run",
+    "Python.module_13_4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -91,6 +92,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="module_13_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Module_13" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/module_13_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.module_13_4" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -196,7 +221,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737021710977</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Лекция. Машина состояний">
+      <option name="closed" value="true" />
+      <created>1737025317392</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737025317392</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Лекция. Машина состояний">
+      <option name="closed" value="true" />
+      <created>1737025319222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737025319222</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -207,7 +248,8 @@
     <MESSAGE value="Лекция.&#10;Set up конфигурации бота для библиотеки aiogram.&#10;Хендлеры обработки сообщений" />
     <MESSAGE value="Лекция. Методы отправки сообщений" />
     <MESSAGE value="Домашнее задание по теме &quot;Методы отправки сообщений&quot;." />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Методы отправки сообщений&quot;." />
+    <MESSAGE value="Лекция. Машина состояний" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лекция. Машина состояний" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
