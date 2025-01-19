@@ -262,7 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737293146536</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Лекция. Клавиатура кнопок">
+      <option name="closed" value="true" />
+      <created>1737305684824</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1737305684824</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Лекция. Клавиатура кнопок">
+      <option name="closed" value="true" />
+      <created>1737305685834</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737305685834</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -275,7 +291,8 @@
     <MESSAGE value="Домашнее задание по теме &quot;Методы отправки сообщений&quot;." />
     <MESSAGE value="Лекция. Машина состояний" />
     <MESSAGE value="Домашнее задание по теме &quot;Машина состояний&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Машина состояний&quot;" />
+    <MESSAGE value="Лекция. Клавиатура кнопок" />
+    <option name="LAST_COMMIT_MESSAGE" value="Лекция. Клавиатура кнопок" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
