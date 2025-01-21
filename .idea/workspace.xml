@@ -51,11 +51,13 @@
     "Python.Lecture_04.executor": "Run",
     "Python.Lecture_05.executor": "Run",
     "Python.Lecture_06.executor": "Run",
+    "Python.Lecture_07.executor": "Run",
     "Python.main.executor": "Run",
     "Python.module_13_1.executor": "Run",
     "Python.module_13_2.executor": "Run",
     "Python.module_13_3.executor": "Run",
     "Python.module_13_4.executor": "Run",
+    "Python.module_13_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -98,6 +100,9 @@
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -278,7 +283,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737305685834</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Домашнее задание по теме &quot;Клавиатура кнопок&quot;.">
+      <option name="closed" value="true" />
+      <created>1737306532406</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737306532406</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Домашнее задание по теме &quot;Клавиатура кнопок&quot;.">
+      <option name="closed" value="true" />
+      <created>1737306533849</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737306533850</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -292,7 +313,8 @@
     <MESSAGE value="Лекция. Машина состояний" />
     <MESSAGE value="Домашнее задание по теме &quot;Машина состояний&quot;" />
     <MESSAGE value="Лекция. Клавиатура кнопок" />
-    <option name="LAST_COMMIT_MESSAGE" value="Лекция. Клавиатура кнопок" />
+    <MESSAGE value="Домашнее задание по теме &quot;Клавиатура кнопок&quot;." />
+    <option name="LAST_COMMIT_MESSAGE" value="Домашнее задание по теме &quot;Клавиатура кнопок&quot;." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
